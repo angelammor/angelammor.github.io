@@ -35,3 +35,9 @@ p {
     text-align: center;
 }
 
+a:link, a:visited {
+    color: #6DAEDB;
+}
+a:hover, a:active {
+    color: #1e547a;
+}
